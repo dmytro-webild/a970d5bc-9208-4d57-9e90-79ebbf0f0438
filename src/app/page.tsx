@@ -63,7 +63,7 @@ export default function LandingPage() {
           handle: "@clara_art",
           testimonial: "The best brush engine I've ever used. Truly incredible.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/artistic-color-strokes-isolated_23-2151897743.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/artistic-color-strokes-isolated_23-2151897743.jpg?_wi=1",
           imageAlt: "abstract painting background",
         },
         {
@@ -71,7 +71,7 @@ export default function LandingPage() {
           handle: "@marc_draws",
           testimonial: "Everything feels so natural. I can't imagine my workflow without it.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/art-concept-with-smartphone-template_23-2148023743.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/art-concept-with-smartphone-template_23-2148023743.jpg?_wi=1",
           imageAlt: "abstract painting background",
         },
         {
@@ -79,7 +79,7 @@ export default function LandingPage() {
           handle: "@elena_paint",
           testimonial: "Intuitive, clean, and fast. Perfect for my daily sketches.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-taking-photos-heart-shaped-macarons-planes-with-smartphone_23-2149428226.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-taking-photos-heart-shaped-macarons-planes-with-smartphone_23-2149428226.jpg?_wi=1",
           imageAlt: "abstract painting background",
         },
         {
@@ -87,7 +87,7 @@ export default function LandingPage() {
           handle: "@javier_design",
           testimonial: "Unparalleled performance for large canvases.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/colorful-abstract-geometric-wallpaper_23-2151898368.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/colorful-abstract-geometric-wallpaper_23-2151898368.jpg?_wi=1",
           imageAlt: "abstract painting background",
         },
         {
@@ -95,7 +95,7 @@ export default function LandingPage() {
           handle: "@sofia_illust",
           testimonial: "My creative process is now 2x faster than ever before.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brush-with-watercolor-set_23-2148612633.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brush-with-watercolor-set_23-2148612633.jpg?_wi=1",
           imageAlt: "abstract painting background",
         },
       ]}
@@ -105,7 +105,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/artistic-color-strokes-isolated_23-2151897743.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/artistic-color-strokes-isolated_23-2151897743.jpg?_wi=2"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/top-view-blue-paint-brush-strokes_23-2148815428.jpg",
@@ -140,7 +140,7 @@ export default function LandingPage() {
       description="We are dedicated to building tools that help every artist explore their potential. With cutting-edge technology, we make painting digital art feel like traditional painting."
       subdescription="Our team consists of passionate artists and engineers working together."
       icon={Palette}
-      imageSrc="http://img.b2bpic.net/free-photo/art-concept-with-smartphone-template_23-2148023743.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/art-concept-with-smartphone-template_23-2148023743.jpg?_wi=2"
       mediaAnimation="slide-up"
     />
   </div>
@@ -160,7 +160,7 @@ export default function LandingPage() {
             "AI",
             "Tech",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-taking-photos-heart-shaped-macarons-planes-with-smartphone_23-2149428226.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-taking-photos-heart-shaped-macarons-planes-with-smartphone_23-2149428226.jpg?_wi=2",
         },
         {
           id: "2",
@@ -171,7 +171,7 @@ export default function LandingPage() {
             "Efficiency",
             "Layering",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/colorful-abstract-geometric-wallpaper_23-2151898368.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/colorful-abstract-geometric-wallpaper_23-2151898368.jpg?_wi=2",
         },
         {
           id: "3",
@@ -182,7 +182,7 @@ export default function LandingPage() {
             "Creative",
             "Color",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brush-with-watercolor-set_23-2148612633.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-brush-with-watercolor-set_23-2148612633.jpg?_wi=2",
         },
       ]}
       title="Master Every Stroke"
